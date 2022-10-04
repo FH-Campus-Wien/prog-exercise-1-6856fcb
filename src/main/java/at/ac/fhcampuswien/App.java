@@ -1,5 +1,5 @@
 package at.ac.fhcampuswien;
-
+import java.util.Scanner;
 public class App {
 
     //todo Task 1
